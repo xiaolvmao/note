@@ -467,7 +467,7 @@ enum Day {
 6. 回滚回某个版本：git reset --hard 版本号（缓存区，暂存区都清空），git reset soft 版本号（由版本库回滚到暂存区），git reset mix 版本号（由版本号回滚到修改状态），git reset head 文件名（将add提交的文件恢复到修改状态），git checkout 文件名（将修改状态恢复到未修改状态）
 7. 创建分支：git branch 分支名，切换分支：git checkout 分支名，查看分支：git branch，合并分支：git merge 分支名（增加的增加，删减的删减，修改的修改），删除分支：git branch -d 分支名
 8. 提交github：git remote add 名字 地址，git push -u 名字 分支名
-9. 
+9. 111
 
 
 
